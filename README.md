@@ -6,5 +6,7 @@ Based on the paper:
 Aligning Points to Lines: Provable Approximations
 By: Ibrahim Jubran and Dan Feldman
 
+The paper can be found on my website: https://sites.google.com/site/ibrahimjub/
+
 Published in the "IEEE Transactions on Knowledge and Data Engineering".
 Please cite our paper if you use the code.
